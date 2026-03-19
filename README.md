@@ -2,7 +2,7 @@
 
 ## Demo
 
-<video src="https://github.com/ParthGala2k/microservice-discovery/raw/master/video1733810299.mp4" controls width="800"></video>
+https://github.com/user-attachments/assets/616f567f-df44-42a6-86ec-3e66a98a555b
 
 A working demonstration of **Service Discovery** in a distributed system.
 Two instances of a microservice register with a central registry. A client discovers them dynamically and calls a random instance on every request — without hardcoding any addresses.
